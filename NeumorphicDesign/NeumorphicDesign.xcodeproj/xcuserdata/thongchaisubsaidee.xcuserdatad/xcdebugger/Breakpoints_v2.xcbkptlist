@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "02F80892-46D0-47BA-BF9D-FA32D1FBF9EA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "725D7D6A-A45B-48F5-8A75-E3251092A513"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NeumorphicDesign/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "725D7D6A-A45B-48F5-8A75-E3251092A513 - fdef3bf7abe62deb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeumorphicDesign.HomeView.body.getter : some"
+                  moduleName = "NeumorphicDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thongchaisubsaidee/Documents/Xcode/Xcode12/Tutorial/Website/raywenderlich/NenumorphicDesign/NeumorphicDesign/NeumorphicDesign/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "463">
+               </Location>
+               <Location
+                  uuid = "725D7D6A-A45B-48F5-8A75-E3251092A513 - d4f3e8a01943f945"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Int in NeumorphicDesign.HomeView.body.getter : some"
+                  moduleName = "NeumorphicDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thongchaisubsaidee/Documents/Xcode/Xcode12/Tutorial/Website/raywenderlich/NenumorphicDesign/NeumorphicDesign/NeumorphicDesign/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
