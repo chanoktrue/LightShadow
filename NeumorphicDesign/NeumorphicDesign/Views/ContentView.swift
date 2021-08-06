@@ -84,9 +84,9 @@ struct ImageView: View {
             .padding(.vertical, 60)
             .padding()
             .overlay(
-                
-                VStack {
-                    
+
+                VStack() {
+                            
                     LinearGradient(
                         gradient: Gradient(colors: [Color.red, Color.blue]),
                         startPoint: .leading,
@@ -113,6 +113,14 @@ struct ImageView: View {
                     selected.toggle()
                 }
             }
+            .shadow(
+                color: Color.white.opacity(0.9),
+                radius: 18, x: -18, y: -18
+            )
+            .shadow(
+                color: Color.gray.opacity(0.9),
+                radius: 14, x: 14, y: 14
+            )
         
         
     }
